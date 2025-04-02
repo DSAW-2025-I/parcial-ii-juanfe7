@@ -1,4 +1,13 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/CBIH3_Lj)
 # Web Development Exam - Backend with Express.js
+
+# Despliegue en vercel
+- Nombre: Juan Felipe Cardenas
+- link: https://parcial-ii-juanfe7-q7dv1aei9-juan-felipes-projects-17adf732.vercel.app/products.
+## Productos disponibles:
+- Cocktail; id:1.
+- Ice cream; id:2.
+- Waffle; id:3.
 
 ## Overview
 Este examen evalúa tu capacidad para construir un backend básico usando Express.js. Crearás una API sencilla para gestionar información de productos.
