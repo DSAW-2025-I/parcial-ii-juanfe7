@@ -2,12 +2,12 @@
 # Web Development Exam - Backend with Express.js
 
 # Despliegue en vercel
-Nombre:Juan Felipe Cardenas
-link: https://parcial-ii-juanfe7-q7dv1aei9-juan-felipes-projects-17adf732.vercel.app/products
-**Productos disponibles:
-Cocktail; id:1
-Ice cream; id:2
-Waffle; id:3
+- Nombre: Juan Felipe Cardenas
+- link: https://parcial-ii-juanfe7-q7dv1aei9-juan-felipes-projects-17adf732.vercel.app/products.
+## Productos disponibles:
+- Cocktail; id:1.
+- Ice cream; id:2.
+- Waffle; id:3.
 
 ## Overview
 Este examen evalúa tu capacidad para construir un backend básico usando Express.js. Crearás una API sencilla para gestionar información de productos.
